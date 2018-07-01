@@ -1,0 +1,41 @@
+#nv {
+    background-color: black;
+    border-color: blue;
+    font-color:white ;
+	font-family:Helvetica;
+    font-size: 25px;
+}
+.navimg {
+    position:absolute;
+    top:0;
+    right:0;
+    height:100%;
+}
+#container {
+	background:transparent url('logo.jpg') no-repeat center center /cover;
+}
+/*#soln{
+	background:transparent url('images/d1.jpg') no-repeat center center /cover;
+}
+#indu{
+	background:transparent url('images/d3.jpg') no-repeat center center /cover;
+}
+#prod{
+	background:transparent url('images/d2.jpg') no-repeat center center /cover;
+}
+
+#supp{
+	background-color:#f6d3ff;
+}
+
+#cust{
+	background-color:#f6d3ff;
+}
+
+#med{
+	background-color:#f6d3ff;
+}
+
+#cont{
+	background-color:#f6d3ff;
+}*/
